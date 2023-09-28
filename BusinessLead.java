@@ -2,7 +2,7 @@ package miniProject2;
 import java.util.ArrayList;
 public class BusinessLead extends BusinessEmployee
 {
-	public ArrayList<Accountant>team=new ArrayList<Accountant>();
+    public ArrayList<Accountant>team=new ArrayList<Accountant>();
     public double bonusBudget;
     public int headCount;
     public BusinessLead(String name)

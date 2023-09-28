@@ -3,7 +3,7 @@ public class Details
 {
 	public static void main(String[] args) 
 	{
-		TechnicalLead t1 = new TechnicalLead("Koushik");
+	TechnicalLead t1 = new TechnicalLead("Koushik");
         SoftwareEngineer se1 = new SoftwareEngineer("Kasey");
         SoftwareEngineer se2 = new SoftwareEngineer("Govind");
         SoftwareEngineer se3 = new SoftwareEngineer("Swapna");
